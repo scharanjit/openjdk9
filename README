@@ -8,3 +8,6 @@ source code, please see either of these:
   * common/doc/building.md     (markdown version)
 
 See http://openjdk.java.net/ for more information about OpenJDK.
+
+
+This is clone from official website of openjdk 9 using mercurial version control.
